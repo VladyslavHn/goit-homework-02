@@ -16,7 +16,7 @@ font-family: "Raleway", sans-serif;
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
-line-height: 1.166; /* 116.667% */
+line-height: 1.17; /* 116.667% */
 letter-spacing: 0.54px;
 text-transform: uppercase;
 text-decoration: none;
@@ -34,27 +34,27 @@ text-decoration: none;
     color :#404bbf;
 }
 
-.main-mail {
+.main-cont {
     color:#434455;
 }
 
-.main-mail:hover {
+.main-cont:hover {
     color :#404bbf;
 }
 
-.main-mail:focus {
+.main-cont:focus {
     color :#404bbf;
 }
 
-.main-tel {
+.main-cont {
     color:#434455;
 }
 
-.main-tel:hover {
+.main-cont:hover {
     color :#404bbf;
 }
 
-.main-tel:focus {
+.main-cont:focus {
     color :#404bbf;
 }
 
@@ -157,13 +157,18 @@ li {
 }
 
 .team-title {
+    color:#2e2f42;
     text-align: center;
     font-size: 36px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1.11; /* 111.111% */
+    line-height: 1.5; /* 111.111% */
     letter-spacing: 0.02em;
     text-transform: capitalize;
+}
+
+.team-list {
+    background-color: #FFFFFF
 }
 
 .team-part {
@@ -172,6 +177,7 @@ li {
 }
 
 .team-name {
+    color: #2e2f42;
 font-size: 20px;
 font-style: normal;
 font-weight: 500;
@@ -223,12 +229,12 @@ letter-spacing: 0.32px;
 }
 
 .footer-logo-s {
-    color: #F4F4FD;
+    color: f4f4fd;
 font-family: "Raleway", sans-serif;
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
-line-height: 1.166; /* 116.667% */
+line-height: 1.17; /* 116.667% */
 letter-spacing: 0.54px;
 text-transform: uppercase;
 text-decoration: none;
