@@ -111,11 +111,8 @@ li {
 
 .button {
     font-family: "Roboto", sans-serif;
-    align-items: flex-start;
-    gap: 10px;
-    border-radius: 4px;
-    background: #4D5AE5;
-    color: var(--WHITE, #FFF);
+    background-color: #4D5AE5;
+    color: #FFF;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -196,24 +193,29 @@ letter-spacing: 0.4px;
     background-color: #FFF;
 }
 
+.portfolio-title{
+    line-height: 1.11
+}
+
 .portfolio-link {
-    border: 1px solid var(--CORNFLOWER, #E7E9FC);
+    
 background-color:#FFF;
 }
 
 .portfolio-section {
+    color: #2e2f42;
     font-size: 20px;
 font-style: normal;
 font-weight: 500;
 line-height: 1.2; /* 120% */
-letter-spacing: 0.4px;
+letter-spacing: 0.02em;
 }
 
 .portfolio-subsection {
     color: #434455;
 font-size: 16px;
 line-height: 1.5; /* 150% */
-letter-spacing: 0.32px;
+letter-spacing: 0.02em;
 }
 
 .footer {
