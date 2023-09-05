@@ -159,7 +159,7 @@ li {
     font-size: 36px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1.2; /* 111.111% */
+    line-height: 1.11; /* 111.111% */
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
@@ -169,7 +169,6 @@ li {
 }
 
 .team-part {
-    border-radius: 0px 0px 4px 4px;
     background-color: #FFFFFF;
 }
 
@@ -207,7 +206,7 @@ background-color:#FFF;
     font-size: 20px;
 font-style: normal;
 font-weight: 500;
-line-height: 1.2; /* 120% */
+line-height: 1.11; /* 120% */
 letter-spacing: 0.02em;
 }
 
