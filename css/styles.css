@@ -162,7 +162,7 @@ li {
     font-size: 36px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1.5; /* 111.111% */
+    line-height: 1.2; /* 111.111% */
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
@@ -181,7 +181,7 @@ li {
 font-size: 20px;
 font-style: normal;
 font-weight: 500;
-line-height: 1.11; /* 120% */
+line-height: 1.2; /* 120% */
 letter-spacing: 0.4px;
 }
 
