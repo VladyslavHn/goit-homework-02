@@ -193,7 +193,7 @@ li {
 }
 
 .portfolio-title{
-    line-height: 1.11
+    line-height: 1.11;
 }
 
 .portfolio-link {
@@ -206,7 +206,7 @@ li {
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
-    line-height: 1.11; /* 120% */
+    line-height: 1.2; /* 120% */
     letter-spacing: 0.02em;
 }
 
